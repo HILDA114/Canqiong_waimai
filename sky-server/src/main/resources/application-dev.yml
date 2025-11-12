@@ -1,7 +1,7 @@
 sky:
   wechat:
-    appid: wx9f998f3c31f6be4b
-    secret: 45bde43a76c5e5545d996379a687133f
+    appid:
+    secret:
 #   datasource:
 #     driver-class-name: com.mysql.cj.jdbc.Driver
 #     host: localhost
