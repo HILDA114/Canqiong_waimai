@@ -22,7 +22,7 @@ import jakarta.servlet.http.HttpServletResponse;
 public class JwtTokenUserInterceptor implements HandlerInterceptor {
 
     @Autowired
-    private JwtProperties jwtProperties;
+    private JwtPrperties jwtProperties;
 
     /**
      * 校验jwt
